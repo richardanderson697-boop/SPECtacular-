@@ -1,0 +1,2 @@
+# SPECtacular-
+Quick spec generation 
